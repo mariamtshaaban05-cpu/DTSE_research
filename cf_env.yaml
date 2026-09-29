@@ -1,0 +1,15 @@
+# Environment for wind and solar capacity factors
+
+name: cf_atlite
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.12
+- atlite=0.4.0
+- cartopy=0.22.0
+- geopandas=0.14.3
+- shapely=2.0.2
+- xarray=2025.1.2
+- pandas=2.2.0
+- numpy=1.26.4
