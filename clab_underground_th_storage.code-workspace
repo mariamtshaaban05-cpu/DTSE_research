@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "clab_underground_th_storage"
+		},
+		{
+			"path": "Desktop"
+		}
+	],
+	"settings": {
+		"netcdfViewer.pythonPath": "/Users/mshaaban/Miso_Weather_Data/miso_solar_cf_2020_2024.nc"
+	}
+}
